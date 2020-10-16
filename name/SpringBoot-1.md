@@ -1,4 +1,4 @@
-pom.xml
+### pom.xml
 
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
@@ -54,4 +54,21 @@ pom.xml
 	</build>
 
 </project>
+```
+
+###D:\java\project\src\main\resources
+
+```java
+package com.createmaveen.project;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ProjectApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ProjectApplication.class, args);
+	}
+}
 ```
