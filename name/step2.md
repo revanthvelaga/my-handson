@@ -125,5 +125,26 @@ public class LoginController {
 }
 
 ```
+### D:\java\project\src\main\java\com\createmaveen\project\ProjectApplication.java
+
+```java
+package com.createmaveen.project;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ProjectApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ProjectApplication.class, args);
+	}
+}
+```
+
+### /project/src/main/resources/application.properties
+```
+logging.level.org.springframework.web: DEBUG
+```
 
 
