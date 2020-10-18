@@ -1,0 +1,7 @@
+### what i learnt
+- spring is most famous dependency framework
+- before spring it is difficult to unit test
+- if we declare it as @component/@service-for bussiness service/@repository spring will take it as a Bean
+- @controller is used for web conrollers
+- @autowire
+- @componentscan
