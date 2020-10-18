@@ -1,6 +1,7 @@
 ### what i learnt
 - learnt about architecture of web applications
 
-- web->business->[integration](java EE typical architecture)
+-(java EE typical architecture)
                    
-                -> [Data]
+ -model 1 model 2 Architecture of web
+ 
