@@ -51,7 +51,7 @@ public class Todocontroller {
 }
 ```
 
-### list-todos
+### list-todoss
 ```jsp
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <html>
